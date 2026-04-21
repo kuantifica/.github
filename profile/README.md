@@ -1,11 +1,3 @@
----
-title: Kuantifica
-description: Perfil público de la organización en GitHub
-created_on: 2026-04-19
-last_updated: 2026-04-19
-status: draft
----
-
 # Kuantifica
 
 > *Datos que mueven negocios reales.*
