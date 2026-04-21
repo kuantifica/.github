@@ -6,7 +6,8 @@ Repositorio de configuración de la organización [Kuantifica](https://github.co
 
 ## Contenido
 
-- ...
+- Templates de issues y pr.
+- Perfil público de Kuantifica.
 
 ## Notas
 
